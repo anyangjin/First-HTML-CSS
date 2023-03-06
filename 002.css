@@ -1,0 +1,263 @@
+/* section > * {
+  color: blueviolet;
+}
+
+#HELLO1 {
+  font-size: 30px;
+  color: greenyellow;
+}
+
+#HELLO2 {
+  font-size: 60px;
+  color: goldenrod;
+}
+
+.HI {
+  font-size: 50px;
+  background-color: brown;
+}
+
+[class^="btn"] {
+  font-size: 30px;
+  color: red;
+}
+
+p > strong {
+  color: aqua;
+} */
+
+/* section {
+  color: red;
+  border: 5px solid pink;
+}
+h1 {
+  border: inherit;
+} */
+
+/* html {
+  font-size: 10px;
+}
+
+p {
+  font-size: 1.6rem;
+}
+
+strong {
+  font-size: 0.5em;
+} */
+
+/* html {
+  font-size: 10px;
+}
+
+.px {
+  font-size: 20px;
+}
+.px .btn1 {
+  font-size: 20px;
+  padding: 4px 20px;
+  border-radius: 0.2em;
+}
+.px .btn2 {
+  font-size: 40px;
+  padding: 8px 40px;
+  border-radius: 0.2em;
+}
+.px .btn3 {
+  font-size: 80px;
+  padding: 16px 80px;
+  border-radius: 0.2em;
+}
+
+.em {
+  font-size: 2em;
+}
+.em .btn1,
+.em .btn2,
+.em .btn3 {
+  padding: 0.2em 1em;
+  border-radius: 0.2em;
+}
+.em .btn1 {
+  font-size: 1em;
+}
+.em .btn2 {
+  font-size: 2em;
+}
+.em .btn3 {
+  font-size: 4em;
+}
+
+.rem {
+  font-size: 2rem;
+}
+.rem .btn1,
+.rem .btn2,
+.rem .btn3 {
+  padding: 0.2em 1em;
+  border-radius: 0.2em;
+}
+.rem .btn1 {
+  font-size: 2rem;
+}
+.rem .btn2 {
+  font-size: 4rem;
+}
+.rem .btn3 {
+  font-size: 8rem;
+} */
+
+/* 
+.btn1{
+
+  padding:0 40px;
+}
+
+.btn2{
+  padding:0 4rem;
+}
+
+.btn3, .btn4, .btn5{
+   padding:0 0.5em;
+}
+.btn3{
+   font-size: 8rem;
+}
+
+.btn4{
+  font-size: 4rem;
+}
+.btn5{
+  font-size: 2rem;
+} */
+/* 
+p {
+  font-size: 24px;
+}
+
+.dashed {
+  text-decoration: lime underline overline dashed auto;
+}
+
+.wavy {
+  text-decoration-color: royalblue;
+  text-decoration-line: line-through underline overline;
+  text-decoration-style: wavy;
+  text-decoration-thickness: 5px;
+} */
+/* section p {
+  font-weight: bold;
+}
+
+section > p {
+  color: royalblue;
+} */
+/* h1 ~ p {
+  text-decoration: underline;
+} */
+
+/* h1 + p {
+  background: yellow;
+} */
+/* section {
+  color: red;
+  border: 5px solid pink;
+} */
+
+/* section {
+  color: red;
+  border: 5px solid pink;
+}
+h1 {
+  border: inherit;
+} */
+
+/* html {
+  font-size: 10px;
+}
+
+.px {
+  font-size: 20px;
+}
+.px .btn1 {
+  font-size: 20px;
+  padding: 4px 20px;
+  border-radius: 0.2em;
+}
+.px .btn2 {
+  font-size: 40px;
+  padding: 8px 40px;
+  border-radius: 0.2em;
+}
+.px .btn3 {
+  font-size: 80px;
+  padding: 16px 80px;
+  border-radius: 0.2em;
+}
+
+.em {
+  font-size: 2em;
+}
+.em .btn1,
+.em .btn2,
+.em .btn3 {
+  padding: 0.2em 1em;
+  border-radius: 0.2em;
+}
+.em .btn1 {
+  font-size: 1em;
+}
+.em .btn2 {
+  font-size: 2em;
+}
+.em .btn3 {
+  font-size: 4em;
+}
+
+.rem {
+  font-size: 2rem;
+}
+.rem .btn1,
+.rem .btn2,
+.rem .btn3 {
+  padding: 0.2em 1em;
+  border-radius: 0.2em;
+}
+.rem .btn1 {
+  font-size: 2rem;
+}
+.rem .btn2 {
+  font-size: 4rem;
+}
+.rem .btn3 {
+  font-size: 8rem;
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  position: fixed;
+  width: 100%;
+  background: rgba(7, 233, 75, 0.5);
+}
+div {
+  height: 400px;
+
+  font-size: 80px;
+  color: #fff;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#one {
+  background: salmon;
+}
+#two {
+  background: skyblue;
+}
+#three {
+  background: slateblue;
+}
